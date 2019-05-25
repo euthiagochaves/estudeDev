@@ -1,0 +1,6 @@
+CREATE TABLE pessoas (
+    id INT NOT NULL,
+    nome VARCHAR(30) NOT NULL,
+    data_aniversario DATE,
+    telefone VARCHAR(15) NOT NULL
+);
